@@ -1,3 +1,4 @@
+/*
 package com.example.picasso;
 
 import android.app.Activity;
@@ -89,3 +90,4 @@ public class SampleListDetailActivity extends PicassoSampleActivity {
     }
   }
 }
+*/
